@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const pages = ['Resume', '(Extended)', 'Media', 'About'];
+    const pages = ['Resume', 'CV', 'Media', 'About'];
     const sidebar = document.getElementById('sidebar');
 
     pages.forEach(page => {
