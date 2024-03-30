@@ -1,3 +1,3 @@
-# DominicSim
+# My Resume
 
-# Testing out random stuff. Do it work>
+# Using github 'cuz it's free! :)
