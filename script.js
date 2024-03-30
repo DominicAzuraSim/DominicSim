@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
         sidebar.appendChild(link);
     });
 
-    showPage('home'); // Show the home page by default
+    showPage('resume'); // Show the home page by default
 });
 
 function showPage(pageId) {
