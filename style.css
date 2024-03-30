@@ -74,6 +74,7 @@ a:hover {
 
 .sidebar a:hover {
     transform: scale(1.5);
+    transform-origin: left center;
 }
 
 .content {
