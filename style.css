@@ -62,8 +62,8 @@ a:hover {
 }
 
 .sidebar a {
-    color: #333;
     text-decoration: none;
+    color: #333;
     padding: 20px;
     display: block;
     transition: transform 0.2s;
